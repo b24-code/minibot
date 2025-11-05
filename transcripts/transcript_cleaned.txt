@@ -1,0 +1,168 @@
+so I want to talk about the link between the signaling cascades that we've been discussing and transcription factors, and give you several examples, and because ultimately, that's what we're going to do during metabolism.
+We're going to link hormonal neuronal activation of extracellular receptors to trigger signal transduction to activate transcriptional regulation of relevant metabolic genes, okay, but also in growth.
+And, you know, and we, and I skipped a couple lectures given just how complicated things were getting, but, but nothing I think that's going to impact what we were doing.
+So, so let's put things in a little bit of perspective and, and that is, if you want to activate or turn off transcription and transcription factors, then you must, you must be located in the nucleus.
+You must buy so if you're something that's going to activate or repress transcription, then you must be in the nucleus.
+You must bind to DNA, or you must interact with the basal transcriptional apparatus through your trans activation domain, right?
+Okay, that seems obvious, so therefore extracellular signals and signal cascades that regulate transcription factor activity must then regulate nuclear localization, must regulate DNA binding and or regulate transactivation.
+So again, it's, it's, it's pretty straightforward, but how best to do that?
+Okay, so let's you know.
+And there are many ways in which you can activate a transcription factor, and we've talked about many of them, and I'll summarize it at the end of the lecture.
+So you can conduct protein synthesis, so you can make a transcription factor.
+We're going to talk about that today.
+You can have ligand binding.
+So we've talked about examples of a protein that if you bind a ligand to it becomes a transcription factor.
+What would be an example of that?
+The steroid hormone receptor, for example, would be one like that, right?
+We could phosphorylate and we'll talk about that today.
+You could add a second subunit.
+We haven't really talked about that, but I'll show you an example.
+You could unmask it.
+You know, like in the case of the retinal blastoma gene, which we didn't really talk about, but so don't worry about that.
+We can regulate nuclear entry, which we're going to talk about now.
+Or you could release a transcription factor from the membrane, which I don't actually know a good example of, but I'm sure there is one.
+So there's lots of ways that you can regulate it.
+Remember, what do we call a transcription factor that can be turned on and on?
+What it's an inducible transcription factor.
+That's right.
+Okay, okay, so let's talk about regulating access to the nucleus.
+So, so we've done cytosolic to endoplasmic reticulum.
+We did just mention briefly access to the mitochondria through mitochondrial localization signals.
+But how do you get into the nucleus and and the nuclear pore complex is a fascinating cell structure.
+It's a large pore through the double through the double lipid bilayer that is the nuclear envelope.
+You know, it has an inner membrane and then an outer nuclear membrane.
+It's, it's contiguous with the endoplasmic reticulum, and it's probably contiguous with the Golgi, and some people believe it's contiguous with the cell membrane.
+It's just a whole plastic structure.
+And within this there are nuclear pores.
+And it's through these nuclear pores that substances made in the nucleus are transported to the cytoplasm, or things in the cytoplasm are transported into the nucleus, and it just and there's a whole unbelievable amount of traffic going through here, and you can see it.
+So here's this nuclear basket down here on the inner nuclear membrane.
+And outside there's this, these cytosolic fibrils and these annular groups here.
+And you can see the basket here.
+The outside looks like little raspberries, you know, in cross section, you can see a hint of the basket here, but, but there's about three or 4000 nuclear pore complexes per cell, and each of them transports about 500 molecules per second.
+I mean, that is an amazing amount of traffic.
+And yet, when we think about it, you know, we're going, Oh, well, you make messenger RNA, you make ribosome RNAs, you make transfer RNAs.
+They come into the cytoplasm, and then we make different proteins, and we're going to talk about transcription factors.
+Those go into the nucleus, but 500 per second, with three or 4000 different nuclear pore complexes, it's hard to imagine how much traffic is going on there, and they've modeled these.
+And here's a cryo electron tomography looking at these things.
+And so diffusion through the nuclear port is regulated.
+If you're really small, then you can just freely diffuse into the nucleus.
+But once you get about 60,000 if you get a molecular mass of about 60,000 then you have to be transported or chaperoned into the nucleus.
+And that includes most things, you know, certainly most proteins, certainly most RNAs and those sorts of stuff.
+And so this is governed so that proteins that are going to be transported to the nucleus contain what we call a nuclear localization signal, an MLS and a nuclear localization signal, much like we talked about before, with signal peptides or any of these other there's just a certain stretch of amino acids.
+Again, in this case, sort of basic amino acids.
+They can be contiguous.
+They can be broken apart, sort of depending on the protein, and they regulate access into the nucleus.
+So for example, here we're looking at a nuclear localization signal on the T antigen, and it looks like this.
+And so when you put that into cells, it is sequestered into the nucleus.
+So each of these is a nuclei, but if we mutate the nuclear localization signal, then it can't get into the nucleus, and now it's restricted to the cytoplasm, okay?
+So these nuclear localization signals then are recognized by nuclear transport protein.
+So here we can see old particles or other particles being transported through a nuclear pore.
+And we know it's important.
+So, so nuclear import and nuclear export receptors are class of proteins that will recognize a nuclear localization signal and then will transport into the nucleus or transport out of the nucleus that protein and and they're called karyopherins.
+But honestly, I think most people just call them nuclear import receptors or nuclear export receptors.
+And there's, there's about 20 or 30 of them, I forget.
+Recognize a certain type of nuclear localization signal.
+And you know, so here's a nuclear import receptor that recognizes a protein with a nuclear localization signal.
+Here's one that recognizes a different type, a different type.
+Here's a protein that uses an adapter to bind to a protein that's got a nuclear localization signal, but, but all of these then have import receptors that can chaperone these proteins through the nuclear pore complex or out of the nucleus.
+And we're going to focus mostly on into the nucleus, but the mechanism is roughly the same.
+Now this is going to introduce a second monomer G protein.
+So we've already discussed RAS as a monomer G protein that regulates cell growth through signaling through the MAP kinase cascade.
+And now we're going to deal with Ram, and that functions in the transport of RNA and proteins into the nucleus.
+And even though the overall mechanism is largely the same as we discussed with Ras, there's sort of a polarity to it that makes it clear how it can move things across a nuclear pore complex.
+But otherwise the mechanisms are roughly similar.
+Okay, so here we're looking at the immunocytic chemistry of ran.
+It's located in the nucleus, some of it's located in the cytoplasm, and this is the compartmentalization, or the polarity, of a familiar cycle that we saw with Ras activation.
+So there are many aspects of the same.
+So here's RAS bound to GDP, and then the guanine nucleotide exchange factor will activate RAS.
+So that's now bound to GDP, and then RAs, as a gtph, will hydrolyze it as stimulated by gtph Activating protein back to inactive.
+And the same is true here, the difference being that ran gap is now within the nucleus, and ran gap is in the cytoplasm, so this compartmentation sort of regulates the directionality of transport.
+So we go between a ran GDP that's off in the cytoplasm, and a ran GTP that's essentially on, but really it's just sort of directionality in the nucleus.
+Okay, so how does this work?
+Well, I mean, it's basically pretty simple, but I can appreciate how it seems a little bit more complicated, but my questions to you about this are going to be really straightforward.
+And so essentially, the way it works for entry, which is what I want you to focus on, is that here's a nuclear import receptor, and here's a protein that contains a nuclear localization signal that we want to import into the nucleus.
+Okay?
+So they will bind to each other to give us a complex.
+And the nuclear import receptor will use these fibrils to guide down through the channel, through the nuclear port complex, and then when it enters the nucleus, then ran GTP will compete for binding of the cargo.
+Will compete for binding for the protein with a nuclear localization signal delivering this protein to the nucleus.
+But now we have a nuclear localization signal bound to ran GTP, and this then will exit through the nuclear pore complex, and then when it gets to the cytoplasm, ran gap will stimulate hydrolysis of the GTP, releasing it from the nuclear import receptor.
+And now it can go back and find another protein to import.
+So, so pretty straightforward, you know, in the same exists for export but, but now ran GTP is chaperoning the protein along with the export receptor, and then ran gap will hydrolyze it and release everything so that it can go back into the nucleus.
+And so, so having gap in the cytoplasm and gap in the nucleus gives us directionality, but, but you'll notice that there's a few things missing here, you know, like, Where does gap, you know, cause it to release GDP and bind GTP.
+And so there's other accessory protein.
+Accessary proteins.
+And so we can go into it a little bit more detail.
+Like, for example, the import receptor is actually a dimer, and I don't think it's particularly important, but it's really an alpha and a beta dimer.
+And here's CAS which, and again, don't memorize these, please.
+That's a nuclear export factor for the alpha subunit of the of the import receptor, Ran is obviously the GTPase ran gap.
+And ran gap are the things that regulate ran and then we have nuclear import receptors for ran GDP, and that's because there's all these other parts that we have to clean up.
+And I'm not going to ask you about this part, you know.
+So here's the dimer alpha and beta for the import receptor, and it binds the protein with nuclear localization signal that will go through the nuclear pore complex.
+So ran GTP will bind to the beta subunit.
+Another factor will combine, bind to the alpha subunit, delivering the protein, and then accessory proteins will allow ran GTP to go back out where ran gap could activate it.
+So and so there's other factors here, but just know that ran gap and ran gap are on each side of the membrane and can regulate transport into the nucleus.
+And so the obviously, the reason I'm telling you this is that if you're a transcription factor, and we want to activate you, if you're an inducible transcription factor, and we want to activate you to act like a transcription factor, then one of the things we have to do is, is regulate your access to the nucleus.
+And so we could expose your nuclear localization signal, for example.
+So, so, and there's different ways of doing that.
+I mean, so, so we could have, you know, there are factors like retention factors that will bind to proteins with a nuclear localization signal and prevent them from interacting with an import reset import factor, and that, upon stimulation, they will release the retention factor and allow this protein to bind to an import receptor to go through the nuclear pore complex.
+So the way you would describe this, really the way to think about it, is that if you have a protein with a nuclear localization signal, but that signal is obscured by the binding of another protein, then nobody knows that that original protein has a nuclear localization signal until it gets phosphorylated, or until something happened, so that now we reveal the nuclear localization signal, and then it can go into the nucleus.
+So, and you already know an example of this, right?
+So a nuclear hormone receptor, like the glucocorticoid receptor, normally resides in the cytoplasm.
+Some reside in the nucleus, some reside in the cytoplasm, and so when glucocorticoids bind to that receptor, then we just say, oh, and then it goes into the nucleus.
+But what happened with the binding of glucocorticoid according to that receptor, something happened that allowed its nuclear localization signal to be observed, right?
+And so there must have been a change in confirmation of the receptor that not only made it a transcription factor, but then revealed a nuclear localization signal.
+And what else got revealed?
+Well, maybe a DNA binding domain got revealed, you know.
+So a lot of things happen allowing it to get into the nucleus.
+So that's sort of what I mean.
+And we'll look at other examples of this as we go along.
+And and, you know, we talked about transcription, we talked about generation, generating mature messenger RNA.
+How do they get out of the nucleus?
+Well, there are export factors.
+Don't worry about the name that then will bind to the messenger RNA and will chaperone the RNA through the nuclear pore complex into the cytoplasm.
+And I'm sure some of you are thinking, but what about the membrane proteins in the nucleus?
+How do they get there?
+The same way, right?
+And so we have nuclear transport, import receptors, beta, alpha, beta, dimers that will bind to a membrane protein and will chaperone it through a nuclear pore complex, so that is now on the inner nuclear membrane.
+So all of these things are just sort of regulated by a fairly common mechanism.
+So again, pretty straightforward, a lot of moving parts, but we're mostly focusing on the monomer G protein part.
+Okay, so I'm going to move on to something here for a second, but I want you to look at this and people who do signals transduction take pleasure in showing you what looks like a mismatch of a whole bunch of pathways, and expecting you to roll your eyes and say, Well, what am I supposed to do with this?
+Well, what you're supposed to do with it is look at it closely and realize, Oh, I know this stuff.
+I know this, right?
+Okay, so let's look at it closely.
+Okay, so here's a G protein coupled receptor, we know that.
+Here's a receptor protein tyrosine kinase.
+We know that.
+Okay, so what does a G protein couple receptor look at?
+Well, we talked about a couple of different pathways, but one was, if it was coupled to G alpha s, then it would stimulate adenylyl cyclase to make cyclic AMP and activate cyclic AMP dependent protein kinase A, or it could be coupled to G alpha q to activate phospholipase C beta, which would then act on PIP2 to generate IP3 and diacylglycerol.
+And IP3 will bind to its receptor, mostly on the endoplasmic or sarcoplasmic reticulum to mobilize calcium, which will bind to calmodulin and activate CaM kinase.
+Or it could work in conjunction with diacylglycerol to activate protein kinase C.
+Or we just mentioned briefly a form of phospholipase C called phospholipase C gamma, that has an SH2 domain and is activated by receptor protein tyrosine kinases.
+And so that would do the same thing, but we mostly talked about G alpha s/q, and then we also talked about how other SH2-containing proteins like Sos, using an adapter, Grb2, would bind to the cytoplasmic tail, and that Sos would activate Ras, and Ras would activate a MAP kinase cascade.
+And we didn't talk about—although I mentioned—that we could also activate a PI3 kinase cascade.
+And what do all of these kinases do?
+Well, in addition to phosphorylating cytoplasmic substrates, they can also activate transcription factors.
+PKA and MAP kinase can go into the nucleus to phosphorylate inducible transcription factors; PKC and CaM kinase can as well in many contexts.
+Proteins can be phosphorylated in the cytoplasm and then translocate, or the kinases themselves can enter the nucleus and act there.
+
+If I say a hormone receptor binds estrogen and then enters the nucleus, the binding likely revealed an NLS so the complex can be imported.
+That same conformational change may expose a DNA-binding domain and/or a transactivation domain that recruits other factors to regulate the estrogen-responsive gene.
+
+The same re-framing applies to STATs.
+Cytokine receptors (or RTKs) create phosphotyrosine docking sites for SH2-containing proteins such as STATs.
+STATs bind, are phosphorylated by JAKs or Src-family kinases, then dissociate and dimerize.
+Dimerization reveals an NLS → nuclear import → DNA binding and transactivation.
+
+Back to PKA: cAMP binding to the regulatory subunits releases the catalytic subunits, which expose an NLS and enter the nucleus.
+There they phosphorylate CREB.
+Phospho-CREB binds the CRE enhancer and recruits CREB-binding protein (CBP), whose interaction depends on CREB phosphorylation—enabling transactivation and transcription.
+
+Specificity of transcription responses comes from: (1) cell-type–specific transcription factors, (2) combinatorial control (distinct factor mixes), and (3) signal strength/duration.
+Example (yeast): α-cells express Mata1/2 analogs (here stylized as “met alpha” in the transcript) that cooperate with or block a general TF to enforce α- vs a-specific programs.
+
+Another nuance: interferon-β requires a multi-factor enhanceosome (e.g., NF-κB plus cooperating factors).
+Expressing only NF-κB is insufficient—illustrating that DNA binding + the right transactivation partners are required for full induction.
+
+Immediate-early vs late-response genes: immediate-early genes turn on rapidly without new protein synthesis (existing TFs/kinases suffice), have short mRNA half-lives, and often encode TFs.
+Those TFs then (a) activate secondary/late genes and (b) shut off their own promoters.
+Inhibiting translation preserves immediate-early induction but blocks shutoff and late-gene activation—consistent with the model.
